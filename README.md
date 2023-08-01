@@ -46,8 +46,6 @@ The findings have significant implications for smart grid design, including:
 ## Conclusion
 The project provides valuable insights into EV charging behaviour and its implications for smart grid design, contributing to the broader energy transition goals.
 
-## Installation and Usage
-Instructions for setting up the environment and running the code are provided in the [Installation Guide](INSTALLATION.md).
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+
