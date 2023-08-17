@@ -12,7 +12,7 @@
 9. [License](#license)
 
 ## Introduction
-This repository contains the code and data for the dissertation project focusing on the predictive analysis of Electric Vehicle (EV) charging behaviour. The project aims to understand and model the charging patterns of EVs and their implications for smart grid design.
+This repository contains the code and data for the project focusing on the predictive analysis of Electric Vehicle (EV) charging behaviour. The project aims to understand and model the charging patterns of EVs and their implications for smart grid design.
 
 ## Context and Relevance
 The transition to renewable energy and the growth of EVs are central to the global energy transition. Understanding EV charging behaviour is vital for:
